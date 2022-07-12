@@ -38,3 +38,6 @@ postgres/postgresql-11.2.tar.bz2:
   size: 19714229
   object_id: 70ad5222-6b50-45e9-7adf-2ad2fd4ab6c1
   sha: 21fd2f0c08dc69514e86a6b25d56059bb0418a62
+postgres/postgresql-13.7.tar.gz:
+  size: 28000563
+  sha: sha256:126b24fd5d11a3e84ec04630926321e26f1386dcebf0059c7d865988b03a4317
